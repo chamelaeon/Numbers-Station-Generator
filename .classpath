@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/freetts.jar" sourcepath="D:/Coding/freetts-1.2.2"/>
+	<classpathentry kind="lib" path="lib/jsapi.jar" sourcepath="D:/Coding/freetts-1.2.2"/>
+	<classpathentry kind="lib" path="lib/freetts-jsapi10.jar"/>
+	<classpathentry kind="lib" path="lib/en_us.jar"/>
+	<classpathentry kind="lib" path="lib/cmu_time_awb.jar"/>
+	<classpathentry kind="lib" path="lib/cmu_us_kal.jar"/>
+	<classpathentry kind="lib" path="lib/cmudict04.jar"/>
+	<classpathentry kind="lib" path="lib/cmulex.jar"/>
+	<classpathentry kind="lib" path="lib/cmutimelex.jar"/>
+	<classpathentry kind="lib" path="lib/mbrola.jar" sourcepath="D:/Coding/freetts-1.2.2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="lib" path="C:/Program Files/Xuggle/share/java/jars/commons-cli.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Xuggle/share/java/jars/logback-classic.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Xuggle/share/java/jars/logback-core.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Xuggle/share/java/jars/slf4j-api.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Xuggle/share/java/jars/xuggle-xuggler.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Xuggle/share/java/jars/xuggle-xuggler-test.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
